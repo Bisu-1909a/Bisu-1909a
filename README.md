@@ -1,293 +1,251 @@
-<div align="center">
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:08111F,45:123B63,100:087E8B&text=BISWAJEET%20OJHA&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=BUSINESS%20ANALYSIS%20%7C%20DATA%20INTELLIGENCE%20%7C%20LEADERSHIP&descSize=14&descAlignY=60" alt="Biswajeet Ojha profile banner"/>Business Analyst | Python Intern @ Syllogistek Systems Pvt. Ltd. | Data Analytics & Business Intelligence | Turning Data into Actionable Insights | Python • SQL • Power BI • Advanced Excel | Analytics • Insights • Impact
+STRATEGIC THINKER   ·   TEAM LEADER   ·   DATA-DRIVEN PROBLEM SOLVER
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:123B63,100:00B4D8&height=220&section=header&text=Biswajeet%20Ojha&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Business%20Analysis%20%7C%20Data%20Analytics%20%7C%20Leadership&descAlignY=58&descSize=17" width="100%"/>
-
-### Turning Business Challenges into Data-Driven Opportunities.
-
-<p>
 <a href="https://github.com/Bisu-1909a">
-<img src="https://img.shields.io/badge/GitHub-Bisu--1909a-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Bisu--1909a-161B22?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/biswajeet-ojha-9176a1387/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 <a href="mailto:ojhabiswajeet84@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Bisu-1909a&style=for-the-badge&color=0077B6&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-## 👨‍💼 Professional Overview
-
-I'm Biswajeet Ojha, an aspiring **Business Analyst and Data Analytics professional**, currently working as a Python Intern at **Syllogistek Systems Pvt. Ltd.**
-
-I enjoy working at the intersection of business, technology and data.
-
-My approach goes beyond writing code or creating dashboards. I focus on understanding the underlying business problem, structuring requirements, analyzing information and developing solutions that support better decisions.
-
-I also enjoy taking initiative, coordinating teams and bringing structure to complex challenges. I'm frequently entrusted with team leadership responsibilities, where I focus on collaboration, accountability and execution.
-
-### 🎯 My Professional Identity
-
-| Domain | My Focus |
-|---|---|
-| 📊 Business Analysis | Requirement Analysis, Process Understanding, Business Problem Solving |
-| 📈 Data Analytics | Data Exploration, KPI Analysis, Data Visualization |
-| 🧠 Strategic Thinking | Root Cause Analysis, Decision Support, Analytical Thinking |
-| 👑 Leadership | Team Coordination, Ownership, Collaboration, Execution |
-| 💻 Technical Skills | Python, SQL, Excel, Power BI |
-
----
-
-## 📌 GitHub Overview
-
-<div align="center">
-
-<a href="https://github.com/Bisu-1909a?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-All%20Repositories-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://github.com/Bisu-1909a?tab=stars">
-<img src="https://img.shields.io/badge/Explore-My%20Stars-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
 
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=Bisu-1909a&label=PROFILE%20VIEWS&color=087E8B&style=flat-square" alt="Profile views"/></div><div align="center">THINK STRATEGICALLY. ANALYZE CRITICALLY. LEAD CONFIDENTLY.
+I turn questions into clarity, data into insights, and ideas into action.
+</div>01 — Professional Profile
+I'm Biswajeet Ojha, an aspiring Business Analyst and Data Analytics professional interested in the intersection of business, data and technology.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bisu-1909a&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=12" width="90%"/>
+I have previously worked as a Python Intern at Syllogistek Systems Pvt. Ltd., where I developed my programming foundation and practical problem-solving approach.
 
-</div>
+I enjoy understanding how a business works, identifying what is holding it back, asking the right questions and using structured analysis to move towards better decisions. I am equally motivated by the people side of execution: I often take on team-lead responsibilities, bring structure to group work, coordinate contributions and help teams stay focused on the outcome.
 
----
-
-## 🧩 What I Bring to the Table
-
+My goal is to become a professional who can understand the business context, investigate the data, communicate the findings and help turn recommendations into measurable action.
+02 — What I Bring
 <table>
-<tr>
-<td width="33%" align="center">
-
-### 👑 Leadership
-
-Taking initiative, coordinating teammates, distributing responsibilities and keeping projects moving towards their goals.
-
-</td>
-<td width="33%" align="center">
-
-### 🧠 Problem Solving
-
-Breaking complex challenges into manageable parts, identifying root causes and developing structured solutions.
-
-</td>
-<td width="33%" align="center">
-
-### 📊 Analytical Thinking
-
-Connecting data with business objectives, identifying patterns and translating findings into meaningful insights.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-My projects focus on practical problem-solving, business intelligence, analytics and technology-driven solutions.
-
-### 01. 💼 Eastbridge — Trade Finance Risk & Margin Leakage Intelligence
-
-**Domain:** Financial Analytics | Business Intelligence | Risk Analysis
-
-An end-to-end business intelligence project designed around an import-export business facing cash-flow pressure and profitability challenges.
-
-**Business problems addressed:**
-- Identifying gaps between expected and realized profitability.
-- Understanding margin leakage across business operations.
-- Evaluating payment, foreign exchange and operational risks.
-- Supporting management decisions through risk intelligence.
-
-**Technology:** Python · SQL · Power BI
-
-[![Repository](https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github)](https://github.com/Bisu-1909a/Eastbridge-Trade-Finance-Risk)
-
----
-
-### 02. 📊 EmployeePulse Analytics
-
-**Domain:** HR Analytics | Business Intelligence | Decision Support
-
-A data-driven HR analytics solution designed to transform employee-related information into meaningful workforce insights.
-
-**Business problems addressed:**
-- Employee performance analysis.
-- Attendance and workforce monitoring.
-- Salary and departmental analysis.
-- Management reporting and decision support.
-
-**Technology:** Python · SQL · SQLite
-
-[![Explore Projects](https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Bisu-1909a?tab=repositories)
-
----
-
-### 03. 🎓 Student Management System
-
-**Domain:** Process Automation | Information Management
-
-A Python-based management system designed to organize student information and simplify academic record management.
-
-**Key capabilities:**
-- Student record management.
-- Attendance tracking.
-- Data validation.
-- CSV and JSON data storage.
-- Activity logging and modular architecture.
-
-**Technology:** Python · OOP · CSV · JSON
-
-[![Explore Projects](https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Bisu-1909a?tab=repositories)
-
----
-
-### 04. 🌱 Vyapar Vikash
-
-**Domain:** Rural Business Intelligence | AI-Driven Business Advisory
-
-An initiative focused on helping rural and semi-urban entrepreneurs make informed business decisions through localized business intelligence and financial evaluation.
-
-**Vision:**
-- Business feasibility evaluation.
-- Financial structuring.
-- Local market intelligence.
-- Data-supported business recommendations.
-
-**Technology:** Python · FastAPI · SQL · Data Analytics · AI
-
-[![Project Repository](https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github)](https://github.com/Bisu-1909a/Vyapar-Vikash)
-
----
-
-### 05. ⚡ Golden-Hour
-
-**Domain:** Collaborative Software Development | Team Projects
-
-A collaborative project focused on building practical technology solutions through structured teamwork and development.
-
-**Technology:** Project stack in development.
-
-[![Project Repository](https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github)](https://github.com/Bisu-1909a/Golden-Hour)
-
----
-
-## 🛠️ Technical Arsenal
-
-<div align="center">
-
-### Programming & Data Analysis
-
-<img src="https://skillicons.dev/icons?i=python,java,c"/>
-
-### Databases & Querying
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres"/>
-
-### Development & Productivity
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux"/>
-
-### Business Intelligence & Analytics
-
-**Microsoft Excel · Power BI · Pandas · NumPy · Data Visualization · SQL Analytics**
-
-### Business Analysis
-
-**Requirement Analysis · Business Process Understanding · KPI Analysis · Problem Solving · Strategic Thinking**
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bisu-1909a&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="190"/>
-
-<img src="https://github-readme-streak-stats.demolab.com?user=Bisu-1909a&theme=tokyonight&hide_border=true&border_radius=12" width="90%"/>
-
-</div>
-
----
-
-## 📊 GitHub Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bisu-1909a&bg_color=0D1117&color=58A6FF&line=00B4D8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bisu-1909a&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10" width="100%"/>
-
-</div>
-
-### 🎓 Certifications & Academic Credentials
-
-| Certificate / Credential | Issuing Organization |
-|---|---|
-| PGDCA Score Certificate | Add issuing institution |
-
-### 👑 Leadership & Project Achievements
-
-- Trusted with team leadership and coordination responsibilities.
-- Worked on collaborative, problem-solving-oriented projects.
-- Developed practical analytics and business intelligence projects.
-- Built solutions connecting technical implementation with business requirements.
-
-*Additional certificates and verified achievements will be listed here.*
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always interested in connecting with people who enjoy solving problems, analyzing data, building useful products and exploring new opportunities.
-
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ Business Analysis</h3>
+      <ul>
+        <li>Requirement understanding and analysis</li>
+        <li>Business problem identification</li>
+        <li>Process and workflow understanding</li>
+        <li>KPI thinking and decision support</li>
+        <li>Structured documentation and communication</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ Data & Intelligence</h3>
+      <ul>
+        <li>Data exploration and interpretation</li>
+        <li>SQL-based analysis</li>
+        <li>Data cleaning and preparation</li>
+        <li>Data visualization and reporting</li>
+        <li>Turning findings into actionable insights</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ Leadership & Execution</h3>
+      <ul>
+        <li>Taking initiative and ownership</li>
+        <li>Team coordination and task alignment</li>
+        <li>Collaborative decision-making</li>
+        <li>Accountability and follow-through</li>
+        <li>Keeping teams focused on shared goals</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ Problem Solving</h3>
+      <ul>
+        <li>Breaking complex problems into steps</li>
+        <li>Root-cause oriented thinking</li>
+        <li>Evaluating options and trade-offs</li>
+        <li>Practical, structured solution design</li>
+        <li>Learning, adapting and improving</li>
+      </ul>
+    </td>
+  </tr>
+</table>03 — GitHub Overview
+<div align="center"><a href="https://github.com/Bisu-1909a?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-173B67?style=for-the-badge&logo=github" alt="Explore repositories"/>
+</a>
+<a href="https://github.com/Bisu-1909a?tab=stars">
+  <img src="https://img.shields.io/badge/EXPLORE-STARRED%20PROJECTS-BB8A2E?style=for-the-badge&logo=github" alt="Starred projects"/>
+</a>
+<a href="https://github.com/Bisu-1909a?tab=followers">
+  <img src="https://img.shields.io/badge/CONNECT-FOLLOWERS-087E8B?style=for-the-badge&logo=github" alt="Followers"/>
+</a>
+
+
+<a href="https://github.com/Bisu-1909a">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bisu-1909a&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Biswajeet's GitHub statistics"/>
+</a>
+<a href="https://github.com/Bisu-1909a">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bisu-1909a&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+</a></div>Stats are provided by a third-party service and may be delayed or temporarily unavailable. Language percentages represent code in public repositories, not overall proficiency.
+04 — Featured Projects
+<div align="center">BUSINESS QUESTIONS FIRST. TECHNOLOGY IN SERVICE OF THE ANSWER.
+Selected work demonstrating analytical thinking, practical implementation and collaborative execution.
+</div><table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 EmployeePulse Analytics</h3>
+      <strong>HR Analytics · Workforce Intelligence · Decision Support</strong>
+      <p>A SQL and Python analytics project that examines employee, department, performance, attendance and salary information to support workforce-related decisions.</p>
+      <strong>Analysis focus</strong>
+      <ul>
+        <li>Employee and departmental analysis</li>
+        <li>Performance and attendance insights</li>
+        <li>Salary and workforce reporting</li>
+        <li>Management-oriented recommendations</li>
+      </ul>
+      <sub>Python · SQL · SQLite</sub>
+      <br/><br/>
+      <a href="https://github.com/Bisu-1909a/EmployeePulse-Analytics"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0B6E99?style=for-the-badge&logo=github&logoColor=white" alt="View EmployeePulse Analytics"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Student Management System</h3>
+      <strong>Process Automation · Information Management</strong>
+      <p>A modular Python application for organizing student records and simplifying common academic administration tasks.</p>
+      <strong>Key capabilities</strong>
+      <ul>
+        <li>Student record management and validation</li>
+        <li>Attendance and marks tracking</li>
+        <li>CSV and JSON data storage</li>
+        <li>Activity logging and modular structure</li>
+      </ul>
+      <sub>Python · OOP · CSV · JSON</sub>
+      <br/><br/>
+      <a href="https://github.com/Bisu-1909a"><img src="https://img.shields.io/badge/FIND%20REPOSITORY-0B6E99?style=for-the-badge&logo=github&logoColor=white" alt="Find Student Management System"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 Vyapaar Vikash</h3>
+      <strong>Rural Business Intelligence · AI-assisted Advisory</strong>
+      <p>An initiative designed to help rural and semi-urban entrepreneurs assess business ideas with localized information, feasibility thinking and financial evaluation.</p>
+      <strong>Product direction</strong>
+      <ul>
+        <li>Business feasibility assessment</li>
+        <li>Financial structuring and evaluation</li>
+        <li>Local market intelligence</li>
+        <li>Data-supported recommendations</li>
+      </ul>
+      <sub>Python · FastAPI · SQL · AI · Analytics</sub>
+      <br/><br/>
+      <a href="https://github.com/Bisu-1909a/Vyapar-Vikash"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0B6E99?style=for-the-badge&logo=github&logoColor=white" alt="View Vyapaar Vikash"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Golden-Hour</h3>
+      <strong>Collaborative Development · Team Execution</strong>
+      <p>A team-built software project. The repository is being developed collaboratively, with an emphasis on coordinated work, clear responsibilities and integration.</p>
+      <strong>My focus</strong>
+      <ul>
+        <li>Team coordination and communication</li>
+        <li>Task ownership and execution</li>
+        <li>Collaborative development workflow</li>
+        <li>Moving from idea to working solution</li>
+      </ul>
+      <sub>Git · GitHub · Project Collaboration</sub>
+      <br/><br/>
+      <a href="https://github.com/Bisu-1909a/Golden-Hour"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0B6E99?style=for-the-badge&logo=github&logoColor=white" alt="View Golden-Hour"/></a>
+    </td>
+  </tr>
+</table>In the portfolio pipeline
+Trade Finance Risk & Margin Leakage Intelligence — a planned business intelligence case study exploring expected-versus-realized margin, payment and FX exposure, operational risk and management reporting for an import-export business. This is a planned portfolio project, not a completed repository.
+<div align="center"><a href="https://github.com/Bisu-1909a?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-161B22?style=for-the-badge&logo=github" alt="Explore all repositories"/>
+</a></div>05 — Technology & Analytical Toolkit
+<div align="center">PROGRAMMING & DATA
+<img src="https://skillicons.dev/icons?i=python,java,c" alt="Python, Java and C"/>
+Python · Pandas · NumPy
+
+DATABASES & QUERYING
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" alt="MySQL, SQLite and PostgreSQL"/>
+SQL · SQLite · PostgreSQL
+
+DEVELOPMENT & COLLABORATION
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Git, GitHub, VS Code, Linux and Docker"/>
+Git · GitHub · VS Code · Linux · Docker
+
+BUSINESS INTELLIGENCE
+
+Microsoft Excel · Advanced Excel · Power BI · Data Visualization · KPI Analysis
+</div>06 — GitHub Contribution Activity
+<div align="center">BUILDING CONSISTENCY, ONE CONTRIBUTION AT A TIME.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bisu-1909a&bg_color=0D1117&color=58A6FF&line=00B4D8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://streak-stats.demolab.com?user=Bisu-1909a&theme=tokyonight&hide_border=true&border_radius=10" width="85%" alt="GitHub contribution streak"/></div>Contribution and streak services are independently hosted. If an image service is temporarily down, the rest of the profile remains usable.
+07 — Achievements & Certifications
+<div align="center">LEARNING. APPLYING. GROWING.
+Professional development through technical learning, workshops and collaborative innovation.
+</div><table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏅 Smart India Hackathon</h3>
+      <strong>Certificate of Participation</strong><br/>
+      Issuer: Smart India Hackathon<br/>
+      Issued: September 2026<br/>
+      <sub>Innovation · Teamwork · Problem Solving</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Tools and Claude Workshop</h3>
+      <strong>Workshop Certificate</strong><br/>
+      Issuer: Be10x<br/>
+      Issued: August 2026<br/>
+      <sub>Artificial Intelligence · AI Tools</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐍 Python Foundation</h3>
+      <strong>Foundation Certificate</strong><br/>
+      Issuer: SyllogisTeks<br/>
+      Issued: May 2026<br/>
+      <sub>Python · Programming Fundamentals</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Getting Started with Artificial Intelligence</h3>
+      <strong>Course Certificate</strong><br/>
+      Issuer: IBM<br/>
+      Issued: March 2025<br/>
+      <sub>Artificial Intelligence Fundamentals</sub>
+    </td>
+  </tr>
+</table>Academic Credential
+PGDCA — Post Graduate Diploma in Computer Applications
+PGDCA score certificate.
+
+Certificate images and verification URLs can be added when available. No certificate ID or verification link has been assumed.
+08 — Leadership & Working Principles
+I believe leadership is about more than assigning tasks. It means creating clarity, taking responsibility, listening to people, handling challenges and helping a team move towards a shared result.
+Principle	How I put it into practice
+Ownership	Take responsibility and follow through.
+Clarity	Break complex goals into understandable tasks.
+Collaboration	Coordinate people and value different perspectives.
+Analysis	Understand the problem before choosing a solution.
+Execution	Turn plans and ideas into practical outcomes.
+Growth	Learn from feedback and improve continuously.
+
+
+09 — Let's Connect
+<div align="center">OPEN TO LEARNING, COLLABORATION AND MEANINGFUL PROBLEM-SOLVING.
 <a href="https://www.linkedin.com/in/biswajeet-ojha-9176a1387/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
-
 <a href="https://www.hackerrank.com/profile/ojhabiswajeet84">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
+  <img src="https://img.shields.io/badge/HACKERRANK-PROFILE-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank"/>
 </a>
-
 <a href="https://leetcode.com/u/bisu-1909a/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
 </a>
-
 <a href="mailto:ojhabiswajeet84@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's%20Connect-D14836?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/EMAIL-LET'S%20CONNECT-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
 </a>
 
-<br/><br/>
 
-### 💡 My Mindset
-
-**Think Strategically. Analyze Critically. Lead Confidently. Execute Effectively.**
-
-*Always learning. Always building. Always looking for better solutions.*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:123B63,100:00B4D8&height=100&section=footer" width="100%"/>
+THINK STRATEGICALLY. ANALYZE CRITICALLY. LEAD CONFIDENTLY.
+ANALYTICS · INSIGHTS · IMPACT
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:08111F,45:123B63,100:087E8B&section=footer" alt="Footer banner"/></div>
