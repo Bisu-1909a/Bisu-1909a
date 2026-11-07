@@ -104,7 +104,7 @@ Selected work demonstrating analytical thinking, practical implementation and co
       </ul>
       <sub>Python · SQL · SQLite</sub>
       <br/><br/>
-      <a href="https://github.com/Bisu-1909a/EmployeePulse-Analytics"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0B6E99?style=for-the-badge&logo=github&logoColor=white" alt="View EmployeePulse Analytics"/></a>
+      <a href="https://github.com/Bisu-1909a?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-0B6E99?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 Student Management System</h3>
@@ -119,7 +119,7 @@ Selected work demonstrating analytical thinking, practical implementation and co
       </ul>
       <sub>Python · OOP · CSV · JSON</sub>
       <br/><br/>
-      <a href="https://github.com/Bisu-1909a"><img src="https://img.shields.io/badge/FIND%20REPOSITORY-0B6E99?style=for-the-badge&logo=github&logoColor=white" alt="Find Student Management System"/></a>
+      <a href="https://github.com/Bisu-1909a?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-0B6E99?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
     </td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ Selected work demonstrating analytical thinking, practical implementation and co
     <td width="50%" valign="top">
       <h3>⚡ Golden-Hour</h3>
       <strong>Collaborative Development · Team Execution</strong>
-      <p>A team-built software project. The repository is being developed collaboratively, with an emphasis on coordinated work, clear responsibilities and integration.</p>
+      <p>A team-built software project, developed collaboratively with an emphasis on coordinated work, clear responsibilities and integration.</p>
       <strong>My focus</strong>
       <ul>
         <li>Team coordination and communication</li>
@@ -155,29 +155,46 @@ Selected work demonstrating analytical thinking, practical implementation and co
     </td>
   </tr>
 </table>In the portfolio pipeline
-Trade Finance Risk & Margin Leakage Intelligence — a planned business intelligence case study exploring expected-versus-realized margin, payment and FX exposure, operational risk and management reporting for an import-export business. This is a planned portfolio project, not a completed repository.
+Trade Finance Risk & Margin Leakage Intelligence — a planned business intelligence case study exploring expected-versus-realized margin, payment and FX exposure, operational risk and management reporting for an import-export business.
 <div align="center"><a href="https://github.com/Bisu-1909a?tab=repositories">
   <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-161B22?style=for-the-badge&logo=github" alt="Explore all repositories"/>
 </a></div>05 — Technology & Analytical Toolkit
-<div align="center">PROGRAMMING & DATA
-<img src="https://skillicons.dev/icons?i=python,java,c" alt="Python, Java and C"/>
-Python · Pandas · NumPy
+<div align="center">💻 PROGRAMMING & DATA ANALYTICS
+<img src="https://skillicons.dev/icons?i=python,java,c" height="65" alt="Python, Java and C"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
-DATABASES & QUERYING
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" alt="MySQL, SQLite and PostgreSQL"/>
-SQL · SQLite · PostgreSQL
 
-DEVELOPMENT & COLLABORATION
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Git, GitHub, VS Code, Linux and Docker"/>
-Git · GitHub · VS Code · Linux · Docker
 
-BUSINESS INTELLIGENCE
+🗄️ DATABASES & QUERYING
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" height="65" alt="MySQL, SQLite and PostgreSQL"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
-Microsoft Excel · Advanced Excel · Power BI · Data Visualization · KPI Analysis
-</div>06 — GitHub Contribution Activity
+
+
+📊 BUSINESS INTELLIGENCE & VISUALIZATION
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Data_Analytics-00A6A6?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics"/>
+<img src="https://img.shields.io/badge/Data_Visualization-7B2CBF?style=for-the-badge&logo=tableau&logoColor=white" alt="Data Visualization"/>
+
+
+
+⚙️ DEVELOPMENT & COLLABORATION
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" height="65" alt="Git, GitHub, VS Code, Linux and Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></div>06 — GitHub Contribution Activity
 <div align="center">BUILDING CONSISTENCY, ONE CONTRIBUTION AT A TIME.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bisu-1909a&bg_color=0D1117&color=58A6FF&line=00B4D8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
-<img src="https://streak-stats.demolab.com?user=Bisu-1909a&theme=tokyonight&hide_border=true&border_radius=10" width="85%" alt="GitHub contribution streak"/></div>Contribution and streak services are independently hosted. If an image service is temporarily down, the rest of the profile remains usable.
+
+
+<img src="https://streak-stats.demolab.com?user=Bisu-1909a&theme=tokyonight&hide_border=true&border_radius=10" width="85%" alt="GitHub contribution streak"/></div>Contribution and streak services are independently hosted. If an image service is temporarily unavailable, the rest of the profile remains usable.
 07 — Achievements & Certifications
 <div align="center">LEARNING. APPLYING. GROWING.
 Professional development through technical learning, workshops and collaborative innovation.
