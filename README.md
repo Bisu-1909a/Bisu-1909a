@@ -1,26 +1,30 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:05070A,45:0B2545,100:8ECAE6&text=BISWAJEET%20OJHA&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=BUSINESS%20ANALYSIS%20%7C%20DATA%20INTELLIGENCE%20%7C%20LEADERSHIP&descSize=14&descAlignY=60" alt="Biswajeet Ojha profile banner"/>
-
-### Business Analyst | Python Intern @ Syllogistek Systems Pvt. Ltd. | Data Analytics & Business Intelligence | Turning Data into Actionable Insights | Python • SQL • Power BI • Advanced Excel | Analytics • Insights • Impact
-
-**STRATEGIC THINKER** &nbsp; · &nbsp; **TEAM LEADER** &nbsp; · &nbsp; **DATA-DRIVEN PROBLEM SOLVER**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1F3A,50:263445,100:3DDC97&text=BISWAJEET%20OJHA&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=BUSINESS%20ANALYSIS%20%7C%20DATA%20INTELLIGENCE%20%7C%20LEADERSHIP&descSize=14&descAlignY=60" alt="Biswajeet Ojha profile banner"/>
 
 <br/>
 
+### Business Analyst | Python Intern @ Syllogistek Systems Pvt. Ltd. | Data Analytics & Business Intelligence | Turning Data into Actionable Insights | Python • SQL • Power BI • Advanced Excel | Analytics • Insights • Impact
+
+<br/>
+
+**STRATEGIC THINKER** &nbsp; · &nbsp; **TEAM LEADER** &nbsp; · &nbsp; **DATA-DRIVEN PROBLEM SOLVER**
+
+<br/><br/>
+
 <a href="https://github.com/Bisu-1909a">
-<img src="https://img.shields.io/badge/GitHub-Bisu--1909a-0B2545?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-BISU--1909A-0B1F3A?style=for-the-badge&logo=github&logoColor=3DDC97" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/biswajeet-ojha-9176a1387/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0B2545?style=for-the-badge&logo=linkedin&logoColor=8ECAE6"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-263445?style=for-the-badge&logo=linkedin&logoColor=3DDC97" alt="LinkedIn"/>
 </a>
 <a href="mailto:ojhabiswajeet84@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0B2545?style=for-the-badge&logo=gmail&logoColor=8ECAE6"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-0B1F3A?style=for-the-badge&logo=gmail&logoColor=3DDC97" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Bisu-1909a&label=PROFILE%20VIEWS&color=0B2545&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Bisu-1909a&label=PROFILE%20VIEWS&color=0B1F3A&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -28,7 +32,7 @@
 
 <div align="center">
 
-### THINK STRATEGICALLY. ANALYZE CRITICALLY. LEAD CONFIDENTLY.
+## THINK STRATEGICALLY. ANALYZE CRITICALLY. LEAD CONFIDENTLY.
 
 *I turn questions into clarity, data into insights, and ideas into action.*
 
@@ -36,7 +40,7 @@
 
 ---
 
-## 01 — PROFESSIONAL PROFILE
+# 01 — PROFESSIONAL PROFILE
 
 I'm **Biswajeet Ojha**, an aspiring Business Analyst and Data Analytics professional interested in the intersection of business, data and technology.
 
@@ -50,7 +54,7 @@ My ambition is to become a professional who can understand business requirements
 
 ---
 
-## 02 — WHAT I BRING TO THE TABLE
+# 02 — WHAT I BRING TO THE TABLE
 
 <table>
 <tr>
@@ -109,33 +113,42 @@ My ambition is to become a professional who can understand business requirements
 
 ---
 
-## 03 — GITHUB OVERVIEW
+# 03 — GITHUB OVERVIEW
 
 <div align="center">
 
 ### MY DEVELOPMENT JOURNEY IN NUMBERS
 
 <a href="https://github.com/Bisu-1909a?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-0B2545?style=for-the-badge&logo=github&logoColor=8ECAE6"/>
+<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-0B1F3A?style=for-the-badge&logo=github&logoColor=3DDC97" alt="Explore repositories"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Bisu-1909a">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Bisu-1909a&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=05070A&title_color=8ECAE6&icon_color=8ECAE6&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Bisu-1909a&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0B1F3A&title_color=3DDC97&icon_color=3DDC97&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/Bisu-1909a">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bisu-1909a&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=05070A&title_color=8ECAE6&text_color=FFFFFF" alt="Most used programming languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bisu-1909a&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0B1F3A&title_color=3DDC97&text_color=FFFFFF" alt="Most used programming languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Bisu-1909a?tab=stars">
+<img src="https://img.shields.io/github/stars/Bisu-1909a?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=0B1F3A&logoColor=3DDC97" alt="GitHub stars"/>
+</a>
+<a href="https://github.com/Bisu-1909a?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-263445?style=for-the-badge&logo=github&logoColor=3DDC97" alt="Repositories"/>
 </a>
 
 </div>
 
-*Statistics are generated through third-party services and may occasionally be unavailable.*
+*GitHub statistics are generated through third-party services. Some statistics may take time to update.*
 
 ---
 
-## 04 — FEATURED PROJECTS
+# 04 — FEATURED PROJECTS
 
 <div align="center">
 
@@ -165,8 +178,10 @@ A SQL and Python analytics project examining employee, department, performance, 
 
 **Technology:** Python · SQL · SQLite
 
+<br/>
+
 <a href="https://github.com/Bisu-1909a?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0B2545?style=for-the-badge&logo=github&logoColor=8ECAE6"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0B1F3A?style=for-the-badge&logo=github&logoColor=3DDC97" alt="Explore project"/>
 </a>
 
 </td>
@@ -189,8 +204,10 @@ A modular Python application designed to organize student information and simpli
 
 **Technology:** Python · OOP · CSV · JSON
 
+<br/>
+
 <a href="https://github.com/Bisu-1909a?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0B2545?style=for-the-badge&logo=github&logoColor=8ECAE6"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0B1F3A?style=for-the-badge&logo=github&logoColor=3DDC97" alt="Explore project"/>
 </a>
 
 </td>
@@ -214,8 +231,10 @@ An initiative designed to help rural and semi-urban entrepreneurs evaluate busin
 
 **Technology:** Python · FastAPI · SQL · AI · Analytics
 
+<br/>
+
 <a href="https://github.com/Bisu-1909a/Vyapar-Vikash">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0B2545?style=for-the-badge&logo=github&logoColor=8ECAE6"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0B1F3A?style=for-the-badge&logo=github&logoColor=3DDC97" alt="View project"/>
 </a>
 
 </td>
@@ -237,8 +256,10 @@ A collaborative software development project focused on coordinating team contri
 
 **Technology:** Git · GitHub · Software Development
 
+<br/>
+
 <a href="https://github.com/Bisu-1909a/Golden-Hour">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0B2545?style=for-the-badge&logo=github&logoColor=8ECAE6"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0B1F3A?style=for-the-badge&logo=github&logoColor=3DDC97" alt="View project"/>
 </a>
 
 </td>
@@ -254,14 +275,14 @@ A business intelligence case study exploring expected-versus-realized profit, pa
 <div align="center">
 
 <a href="https://github.com/Bisu-1909a?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-05070A?style=for-the-badge&logo=github&logoColor=8ECAE6"/>
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-0B1F3A?style=for-the-badge&logo=github&logoColor=3DDC97" alt="Explore all repositories"/>
 </a>
 
 </div>
 
 ---
 
-## 05 — TECHNOLOGY & ANALYTICAL TOOLKIT
+# 05 — TECHNOLOGY & ANALYTICAL TOOLKIT
 
 <div align="center">
 
@@ -287,13 +308,13 @@ A business intelligence case study exploring expected-versus-realized profit, pa
 
 ### 📊 BUSINESS INTELLIGENCE & VISUALIZATION
 
-<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+<img src="https://img.shields.io/badge/MICROSOFT%20EXCEL-0B1F3A?style=for-the-badge&logo=microsoftexcel&logoColor=3DDC97" alt="Microsoft Excel"/>
 &nbsp;
-<img src="https://img.shields.io/badge/POWER_BI-0B2545?style=for-the-badge&logo=powerbi&logoColor=8ECAE6" alt="Power BI"/>
+<img src="https://img.shields.io/badge/POWER%20BI-263445?style=for-the-badge&logo=powerbi&logoColor=3DDC97" alt="Power BI"/>
 
 <br/><br/>
 
-**Data Analytics** &nbsp; · &nbsp; **Data Visualization** &nbsp; · &nbsp; **KPI Analysis**
+**DATA ANALYTICS** &nbsp; · &nbsp; **DATA VISUALIZATION** &nbsp; · &nbsp; **KPI ANALYSIS**
 
 <br/><br/>
 
@@ -303,29 +324,29 @@ A business intelligence case study exploring expected-versus-realized profit, pa
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" height="58" alt="Development tools"/>
 
-**Git** &nbsp; · &nbsp; **GitHub** &nbsp; · &nbsp; **VS Code** &nbsp; · &nbsp; **Linux** &nbsp; · &nbsp; **Docker**
+**GIT** &nbsp; · &nbsp; **GITHUB** &nbsp; · &nbsp; **VS CODE** &nbsp; · &nbsp; **LINUX** &nbsp; · &nbsp; **DOCKER**
 
 </div>
 
 ---
 
-## 06 — GITHUB CONTRIBUTION ACTIVITY
+# 06 — GITHUB CONTRIBUTION ACTIVITY
 
 <div align="center">
 
 ### BUILDING CONSISTENCY, ONE CONTRIBUTION AT A TIME.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bisu-1909a&bg_color=05070A&color=8ECAE6&line=219EBC&point=FFFFFF&area=true&area_color=0B2545&hide_border=true&custom_title=GITHUB%20CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bisu-1909a&bg_color=0B1F3A&color=FFFFFF&line=3DDC97&point=FFFFFF&area=true&area_color=263445&hide_border=true&custom_title=GITHUB%20CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity graph"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Bisu-1909a&theme=github-dark-blue&hide_border=true&background=05070A&ring=8ECAE6&fire=219EBC&currStreakLabel=8ECAE6&sideLabels=8ECAE6&dates=FFFFFF" width="85%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=Bisu-1909a&theme=github-dark-blue&hide_border=true&background=0B1F3A&ring=3DDC97&fire=3DDC97&currStreakLabel=3DDC97&sideLabels=FFFFFF&dates=FFFFFF" width="85%" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 07 — ACHIEVEMENTS & CERTIFICATIONS
+# 07 — ACHIEVEMENTS & CERTIFICATIONS
 
 <div align="center">
 
@@ -402,7 +423,7 @@ PGDCA Score Certificate.
 
 ---
 
-## 08 — LEADERSHIP & WORKING PRINCIPLES
+# 08 — LEADERSHIP & WORKING PRINCIPLES
 
 <div align="center">
 
@@ -412,8 +433,8 @@ PGDCA Score Certificate.
 
 I believe leadership means creating clarity, taking ownership, listening to people, handling challenges and helping a team move towards a shared objective.
 
-| Principle | My Approach |
-|---|---|
+| PRINCIPLE | MY APPROACH |
+|:---|:---|
 | Ownership | Take responsibility and follow through. |
 | Clarity | Break complex goals into understandable tasks. |
 | Collaboration | Coordinate people and value different perspectives. |
@@ -423,7 +444,7 @@ I believe leadership means creating clarity, taking ownership, listening to peop
 
 ---
 
-## 09 — CONNECT WITH ME
+# 09 — CONNECT WITH ME
 
 <div align="center">
 
@@ -434,19 +455,19 @@ I believe leadership means creating clarity, taking ownership, listening to peop
 <br/>
 
 <a href="https://www.linkedin.com/in/biswajeet-ojha-9176a1387/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B2545?style=for-the-badge&logo=linkedin&logoColor=8ECAE6"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=3DDC97" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/ojhabiswajeet84">
-<img src="https://img.shields.io/badge/HACKERRANK-PROFILE-0B2545?style=for-the-badge&logo=hackerrank&logoColor=8ECAE6"/>
+<img src="https://img.shields.io/badge/HACKERRANK-PROFILE-263445?style=for-the-badge&logo=hackerrank&logoColor=3DDC97" alt="HackerRank"/>
 </a>
 
 <a href="https://leetcode.com/u/bisu-1909a/">
-<img src="https://img.shields.io/badge/LEETCODE-PROFILE-0B2545?style=for-the-badge&logo=leetcode&logoColor=8ECAE6"/>
+<img src="https://img.shields.io/badge/LEETCODE-PROFILE-0B1F3A?style=for-the-badge&logo=leetcode&logoColor=3DDC97" alt="LeetCode"/>
 </a>
 
 <a href="mailto:ojhabiswajeet84@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-LET'S%20CONNECT-0B2545?style=for-the-badge&logo=gmail&logoColor=8ECAE6"/>
+<img src="https://img.shields.io/badge/EMAIL-LET'S%20CONNECT-263445?style=for-the-badge&logo=gmail&logoColor=3DDC97" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -455,6 +476,8 @@ I believe leadership means creating clarity, taking ownership, listening to peop
 
 **ANALYTICS · INSIGHTS · IMPACT**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:05070A,45:0B2545,100:8ECAE6&section=footer" alt="Footer banner"/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0B1F3A,50:263445,100:3DDC97&section=footer" alt="Footer banner"/>
 
 </div>
