@@ -138,6 +138,7 @@ My ambition is to become a professional who can understand business requirements
 <a href="https://github.com/Bisu-1909a?tab=stars">
 <img src="https://img.shields.io/github/stars/Bisu-1909a?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=0B1F3A&logoColor=3DDC97" alt="GitHub stars"/>
 </a>
+
 <a href="https://github.com/Bisu-1909a?tab=repositories">
 <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-263445?style=for-the-badge&logo=github&logoColor=3DDC97" alt="Repositories"/>
 </a>
@@ -286,27 +287,71 @@ A business intelligence case study exploring expected-versus-realized profit, pa
 
 <div align="center">
 
-### 💻 PROGRAMMING & DATA ANALYTICS
+*The technologies I use to analyze data, understand business problems and build practical solutions.*
 
-<img src="https://skillicons.dev/icons?i=python,java,c" height="58" alt="Programming languages"/>
+<br/>
 
-**Python** &nbsp; · &nbsp; **Pandas** &nbsp; · &nbsp; **NumPy**
+### 💻 01 — PROGRAMMING LANGUAGES
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" height="65" alt="Python Java C"/>
 
----
+<br/>
 
-### 🗄️ DATABASES & QUERYING
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" height="58" alt="Database technologies"/>
-
-**SQL** &nbsp; · &nbsp; **SQLite** &nbsp; · &nbsp; **PostgreSQL**
+<img src="https://img.shields.io/badge/PYTHON-0B1F3A?style=for-the-badge&logo=python&logoColor=3DDC97" alt="Python"/>
+<img src="https://img.shields.io/badge/JAVA-263445?style=for-the-badge&logo=openjdk&logoColor=3DDC97" alt="Java"/>
+<img src="https://img.shields.io/badge/C-0B1F3A?style=for-the-badge&logo=c&logoColor=3DDC97" alt="C"/>
 
 <br/><br/>
 
 ---
 
-### 📊 BUSINESS INTELLIGENCE & VISUALIZATION
+### 📈 02 — DATA ANALYTICS & MANIPULATION
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PANDAS-0B1F3A?style=for-the-badge&logo=pandas&logoColor=3DDC97" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NUMPY-263445?style=for-the-badge&logo=numpy&logoColor=3DDC97" alt="NumPy"/>
+
+<br/><br/>
+
+---
+
+### 🗄️ 03 — DATABASES & BACKEND TECHNOLOGIES
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,supabase,nodejs&theme=dark" height="65" alt="MySQL SQLite PostgreSQL Supabase Node.js"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MYSQL-0B1F3A?style=for-the-badge&logo=mysql&logoColor=3DDC97" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQLITE-263445?style=for-the-badge&logo=sqlite&logoColor=3DDC97" alt="SQLite"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-0B1F3A?style=for-the-badge&logo=postgresql&logoColor=3DDC97" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/SUPABASE-263445?style=for-the-badge&logo=supabase&logoColor=3DDC97" alt="Supabase"/>
+<img src="https://img.shields.io/badge/NODE.JS-0B1F3A?style=for-the-badge&logo=nodedotjs&logoColor=3DDC97" alt="Node.js"/>
+
+<br/><br/>
+
+---
+
+### 🌐 04 — WEB DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nextjs&theme=dark" height="65" alt="HTML CSS JavaScript Next.js"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/HTML5-0B1F3A?style=for-the-badge&logo=html5&logoColor=3DDC97" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-263445?style=for-the-badge&logo=css3&logoColor=3DDC97" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-0B1F3A?style=for-the-badge&logo=javascript&logoColor=3DDC97" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/NEXT.JS-263445?style=for-the-badge&logo=nextdotjs&logoColor=3DDC97" alt="Next.js"/>
+
+<br/><br/>
+
+---
+
+### 📊 05 — BUSINESS INTELLIGENCE & VISUALIZATION
 
 <img src="https://img.shields.io/badge/MICROSOFT%20EXCEL-0B1F3A?style=for-the-badge&logo=microsoftexcel&logoColor=3DDC97" alt="Microsoft Excel"/>
 &nbsp;
@@ -320,11 +365,23 @@ A business intelligence case study exploring expected-versus-realized profit, pa
 
 ---
 
-### ⚙️ DEVELOPMENT & COLLABORATION
+### ⚙️ 06 — DEVELOPMENT & COLLABORATION
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" height="58" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" height="65" alt="Git GitHub VS Code Linux Docker"/>
 
-**GIT** &nbsp; · &nbsp; **GITHUB** &nbsp; · &nbsp; **VS CODE** &nbsp; · &nbsp; **LINUX** &nbsp; · &nbsp; **DOCKER**
+<br/>
+
+<img src="https://img.shields.io/badge/GIT-0B1F3A?style=for-the-badge&logo=git&logoColor=3DDC97" alt="Git"/>
+<img src="https://img.shields.io/badge/GITHUB-263445?style=for-the-badge&logo=github&logoColor=3DDC97" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20CODE-0B1F3A?style=for-the-badge&logo=visualstudiocode&logoColor=3DDC97" alt="VS Code"/>
+<img src="https://img.shields.io/badge/LINUX-263445?style=for-the-badge&logo=linux&logoColor=3DDC97" alt="Linux"/>
+<img src="https://img.shields.io/badge/DOCKER-0B1F3A?style=for-the-badge&logo=docker&logoColor=3DDC97" alt="Docker"/>
+
+<br/><br/>
+
+---
+
+**BUILDING WITH TECHNOLOGY. THINKING WITH DATA. SOLVING WITH PURPOSE.**
 
 </div>
 
